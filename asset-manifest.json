@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/basic-bankingsystem/static/css/main.7e302a3b.css",
-    "main.js": "/basic-bankingsystem/static/js/main.455a6d7c.js",
+    "main.js": "/basic-bankingsystem/static/js/main.5e7f5bdf.js",
     "static/media/fa-solid-900.ttf": "/basic-bankingsystem/static/media/fa-solid-900.79da213423ac0def2058.ttf",
     "static/media/header.webp": "/basic-bankingsystem/static/media/header.5c9df7481ac11fac1a40.webp",
     "static/media/fa-brands-400.ttf": "/basic-bankingsystem/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
@@ -13,10 +13,10 @@
     "static/media/fa-v4compatibility.woff2": "/basic-bankingsystem/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
     "index.html": "/basic-bankingsystem/index.html",
     "main.7e302a3b.css.map": "/basic-bankingsystem/static/css/main.7e302a3b.css.map",
-    "main.455a6d7c.js.map": "/basic-bankingsystem/static/js/main.455a6d7c.js.map"
+    "main.5e7f5bdf.js.map": "/basic-bankingsystem/static/js/main.5e7f5bdf.js.map"
   },
   "entrypoints": [
     "static/css/main.7e302a3b.css",
-    "static/js/main.455a6d7c.js"
+    "static/js/main.5e7f5bdf.js"
   ]
 }
